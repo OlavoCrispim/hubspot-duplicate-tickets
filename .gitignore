@@ -1,0 +1,7 @@
+# Ignorar o ambiente virtual do Python
+venv/
+__pycache__/
+*.pyc
+
+# Ficheiro para guardar segredos (nunca enviar para o GitHub)
+.env
